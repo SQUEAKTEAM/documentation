@@ -6,13 +6,15 @@
 ---
 
 
-# 📦 Репозитории проекта
+## 📦 Репозитории проекта
 
-| Часть                 | Ссылка                                           |
-|-----------------------|--------------------------------------------------|
-| 📘 Документация        | [github.com/SQUEAKTEAM/dock](https://github.com/SQUEAKTEAM/dock) |
-| 💡 Backend             | [github.com/SQUEAKTEAM/backend_REALLY_HERE](https://github.com/SQUEAKTEAM/backend_REALLY_HERE) |
+| Часть                 | Ссылка                                                       |
+|----------------------|--------------------------------------------------------------|
+| 📘 Документация       | [github.com/SQUEAKTEAM/dock](https://github.com/SQUEAKTEAM/dock) |
+| 💡 Backend           | [github.com/SQUEAKTEAM/backend_REALLY_HERE](https://github.com/SQUEAKTEAM/backend_REALLY_HERE) |
 | 📱 Мобильное приложение | [github.com/SQUEAKTEAM/frontend_ios](https://github.com/SQUEAKTEAM/frontend_ios) |
+| 📜 Лицензия           | [github.com/SQUEAKTEAM/politic](https://github.com/SQUEAKTEAM/politic) |
+
 
 
 
